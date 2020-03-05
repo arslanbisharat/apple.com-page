@@ -11,13 +11,7 @@ HTML5, CSS3
 
 [Live Demo Link](https://raw.githack.com/arslanbisharat/apple.com-page/feature-branch/index.html)
 
-## Authors
-
-👤 **Ricardo **
-
-- Github: [@githubhandle](https://github.com/ricardo123321)
-- Twitter: [@twitterhandle](https://twitter.com/ricardo61592083)
-- Linkedin: [linkedin](https://www.linkedin.com/in/ricardo-vera-7381a81a2/)
+## Author
 
 👤 **Muhammad Arslan**
 
