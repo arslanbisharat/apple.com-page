@@ -55,6 +55,10 @@ html {
     rgb(141, 141, 141)
   );
 }
+.footer > p {
+  padding-top: 1.5rem;
+}
+
 .footer a {
   text-decoration: none;
   color: rgb(0, 136, 204);
@@ -210,8 +214,3 @@ footer {
   padding-right: 0.5rem;
   list-style-type: none;
 }
-
-.footer > p {
-  padding-top: 1.5rem;
-}
-
