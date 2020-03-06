@@ -55,6 +55,11 @@ html {
     rgb(141, 141, 141)
   );
 }
+.footer a {
+  text-decoration: none;
+  color: rgb(0, 136, 204);
+}
+
 footer > p > a:first-child::after,
 .footer-nav li::after {
   content: '|';
@@ -124,8 +129,6 @@ footer > p > a:first-child {
   background-position-y: -210px;
 }
 
-
-
 .search-bar {
   width: 136px;
   height: 36px;
@@ -148,9 +151,7 @@ footer > p > a:first-child {
   background-position: 5px 5px;
 }
 
-/* header */
-
-header {
+.header {
   display: flex;
   flex-direction: column;
   margin-top: 10rem;
@@ -210,12 +211,7 @@ footer {
   list-style-type: none;
 }
 
-.footer a {
-  text-decoration: none;
-  color: rgb(0, 136, 204);
-}
-
-footer > p {
+.footer > p {
   padding-top: 1.5rem;
 }
 
