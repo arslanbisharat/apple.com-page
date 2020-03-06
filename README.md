@@ -1,6 +1,9 @@
 # apple.com-page
  
 Clone of apple.com Page
+This project is the part of Microverse project in HTML & Css section from Odin projects.
+This project compromises on the use of different techniques for building a professional website.
+A beautiful combination of background image and colors is present in this project
 
 ![screenshot](./images/screenshot.png)
 
