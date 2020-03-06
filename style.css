@@ -45,6 +45,7 @@ html {
   display: flex;
   align-items: center;
 }
+
 .main-nav a {
   display: block;
   height: 36px;
@@ -92,6 +93,7 @@ footer > p > a:first-child {
   border-left: 0;
 
 }
+
 .footer-nav li {
   padding-right: 0.5rem;
   list-style-type: none;
@@ -102,7 +104,6 @@ footer > p > a:first-child {
   list-style-type: none;
   border-right: 1px solid rgb(84, 84, 84);
 }
-
 
 .nav-i {
   display: block;
@@ -167,6 +168,7 @@ footer > p > a:first-child {
   flex-direction: column;
   margin-top: 10rem;
 }
+
 .pics {
   margin-top: 2px;
   display: grid;
