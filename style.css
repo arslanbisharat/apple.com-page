@@ -49,6 +49,10 @@ main {
   display: flex;
   align-items: center;
 }
+footer a {
+  text-decoration: none;
+  color: #08c;
+}
 
 .main-nav a {
   display: block;
@@ -71,11 +75,6 @@ main {
 
 .footer > p {
   padding-top: 1.5rem;
-}
-
-footer a {
-  text-decoration: none;
-  color: #08c;
 }
 
 .footer a {
