@@ -90,6 +90,11 @@ footer > p > a:first-child {
 
 .main-nav li:first-child a {
   border-left: 0;
+
+}
+.footer-nav li {
+  padding-right: 0.5rem;
+  list-style-type: none;
 }
 
 .main-nav ul li {
@@ -212,7 +217,3 @@ footer {
   align-items: center;
 }
 
-.footer-nav li {
-  padding-right: 0.5rem;
-  list-style-type: none;
-}
