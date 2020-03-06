@@ -13,6 +13,10 @@ html {
 }
 
 /* wrapper */
+main{
+    text-align: center;
+}
+
 .top-bar {
   max-width: 1440px;
   width: 1440px;
