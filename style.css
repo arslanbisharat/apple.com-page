@@ -49,6 +49,7 @@ main {
   display: flex;
   align-items: center;
 }
+
 footer a {
   text-decoration: none;
   color: #08c;
