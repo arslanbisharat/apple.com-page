@@ -14,7 +14,7 @@ html {
 
 /* wrapper */
 main {
-    text-align: center;
+  text-align: center;
 }
 
 .top-bar {
@@ -73,7 +73,7 @@ main {
   padding-top: 1.5rem;
 }
 
-footer a{
+footer a {
   text-decoration: none;
   color: #08c;
 }
@@ -215,7 +215,6 @@ footer {
   display: flex;
   justify-content: space-between;
 }
-
 
 .footer-nav,
 .footer-nav ul {
