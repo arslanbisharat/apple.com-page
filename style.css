@@ -158,7 +158,7 @@ footer > p > a:first-child {
   height: 60%;
   border: 0;
   box-shadow:
-    inset 0 1px 1px 1px rgb(48, 48, 48),inset 0 -1px 1px 1px rgb(128, 128, 128);
+ inset 0 1px 1px 1px rgb(48, 48, 48),inset 0 -1px 1px 1px rgb(128, 128, 128);
   border-radius: 10px;
   background-color: rgba(130, 130, 130, 0.32);
   background-image: url('images/magnify.svg');
@@ -204,7 +204,7 @@ footer {
   padding-left: 5px;
   font-size: 1rem;
   font-family: 
-    'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana,sans-serif;
+ 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana,sans-serif;
   color: rgb(110, 110, 110);
 }
 
