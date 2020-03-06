@@ -69,9 +69,10 @@ main{
      );
 }
 
-.footer > p {
+.footer > p  {
   padding-top: 1.5rem;
 }
+
 
 .footer a {
   text-decoration: none;
@@ -206,7 +207,7 @@ footer {
   font-size: 1rem;
   font-family: 
  'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana,sans-serif;
-  color: rgb(110, 110, 110);
+  color: #08c;
 }
 
 .footer-container {
@@ -214,9 +215,12 @@ footer {
   justify-content: space-between;
 }
 
+.footer-container > a{
+  text-decoration: none;
+}
+
 .footer-nav,
 .footer-nav ul {
   display: flex;
   align-items: center;
 }
-
