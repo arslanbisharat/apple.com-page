@@ -57,13 +57,50 @@ html {
 .main-nav li,
 .search-bar {
   background:
-   linear-gradient(
-    0deg,
-    rgb(104, 104, 104),
-    rgb(94, 94, 94) 50%,
+   
+  
+  
+  
+  linear-gradient(
+   
+  
+  
+  
+  
+  
+  0deg,
+   
+  
+  
+  
+  
+  
+  rgb(104, 104, 104),
+    
+  
+  
+  
+  
+  
+  rgb(94, 94, 94) 50%,
+   
+   
+   
+   
+   
+   
     rgb(112, 112, 112) 50%,
+    
+    
+    
+    
+    
     rgb(141, 141, 141)
-  );
+
+
+
+
+    );
 }
 
 .footer > p {
