@@ -204,8 +204,7 @@ footer {
   margin: 2rem auto 0 auto;
   padding-left: 5px;
   font-size: 1rem;
-  font-family: 
- 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana,sans-serif;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
   color: #08c;
 }
 
@@ -214,8 +213,9 @@ footer {
   justify-content: space-between;
 }
 
-.footer-container > a{
+footer a{
   text-decoration: none;
+  color: #08c;
 }
 
 .footer-nav,
